@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning c and cpp languages.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email= kavithaprabhakar4@gmail.com
+- And Iam aware of linux operating system and have knowledge about perl scripting language.
 
 <!---
 Tharunkumar02/Tharunkumar02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
