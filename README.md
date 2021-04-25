@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tharunkumar02
 - 👀 I’m interested in coding and programming.
-- 🌱 I’m currently learning c and cpp languages.
+- 🌱 I’m currently learning front end web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email= kavithaprabhakar4@gmail.com
 - And Iam aware of linux operating system and have knowledge about perl scripting language.
