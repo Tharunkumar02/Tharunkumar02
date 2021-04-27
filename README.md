@@ -1,37 +1,22 @@
-<h1 align="center">Hi 👋, I'm Tharun Reddy Nellore</h1>
-<h3 align="center">A passionate frontend web developer, Video Editor, Blogger, Freelancer</h3>
+### Hi there 👋, I'm Tharun Reddy Nellore
+#### I am a Frontend web developer, Video Editor, Content Writer, Freelancer
+B.Tech Bio-Informatics.  Also, I am a student of Bio Info, My Field of Interest is very divergent. I love to code and develop something, majorly have a passion for Fullstack web development. My dream is to be a successful web developer.
 
-- 🌱 I’m currently learning **Java script, Frontend frame works.**
+Skills:  REACT / JS / HTML / CSS / C / C++
 
-- 👨‍💻 My Portfolio [https://tharunr2.blogspot.com/](https://tharunr2.blogspot.com/)
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning React js and Java script 
+- 📫 How to reach me: kavithaprabhakar4@gmail.com 
+- ⚡ Fun fact: A Bio Informatician interested in programming  
 
-- 📝 I regularly write articles on [https://tharun-reddy.blogspot.com/](https://tharun-reddy.blogspot.com/)
 
-- 📫 How to reach me **kavithaprabhkar4@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tharunkumar02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/tharunkumar02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nellore-tharun-kumar-reddy-3ba648205//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/tharun.k.reddy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/tharun_reddie02//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/TharunReddy002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/tharunkumar02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/15506146/nellore-tharun-kumar-reddy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://tharun-reddy.blogspot.com/)  
 
-- ⚡ Fun fact **A Bio-Informatician interested in programming**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunkumar02)](https://github.com/anuraghazra/github-readme-stats)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharunkumar02&show_icons=true)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/tharunkumar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="https://codepen.io/tharunkumar02" height="30" width="40" /></a>
-<a href="https://dev.to/tharunkumar02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tharunkumar02" height="30" width="40" /></a>
-<a href="https://twitter.com/tharunreddy002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="tharunreddy002" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nellore-tharun-kumar-reddy-3ba648205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nellore-tharun-kumar-reddy-3ba648205/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15506146/nellore-tharun-kumar-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15506146/nellore-tharun-kumar-reddy" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tharun.k.reddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tharun.k.reddy/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/tharun_reddie02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tharun_reddie02/" height="30" width="40" /></a>
-<a href="/"https://tharun-reddy.blogspot.com/feeds/posts/default" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt=""https://tharun-reddy.blogspot.com/feeds/posts/default" height="30" width="40" /></a>
-</p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tharunkumar02)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+![GitHub metrics](https://metrics.lecoq.io/Tharunkumar02)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumar02&show_icons=true&locale=en&layout=compact" alt="tharunkumar02" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharunkumar02&show_icons=true&locale=en" alt="tharunkumar02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunkumar02&" alt="tharunkumar02" /></p>
