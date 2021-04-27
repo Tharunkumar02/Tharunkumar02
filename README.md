@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tharun Reddy Nellore</h1>
-<h3 align="center">A passionate frontend web developer, Video Editor, Blogger.</h3>
+<h3 align="center">A passionate frontend web developer, Video Editor, Blogger, Freelancer</h3>
 
 - 🌱 I’m currently learning **Java script, Frontend frame works.**
 
-- 👨‍💻 All of my projects are available at [https://tharunr2.blogspot.com/](https://tharunr2.blogspot.com/)
+- 👨‍💻 My Portfolio [https://tharunr2.blogspot.com/](https://tharunr2.blogspot.com/)
 
 - 📝 I regularly write articles on [https://tharun-reddy.blogspot.com/](https://tharun-reddy.blogspot.com/)
 
