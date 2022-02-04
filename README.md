@@ -2,9 +2,9 @@
 #### I am a Frontend web developer, Video Editor, Content Writer, Freelancer
 -->B.Tech Bio-Informatics. Also, I am a student of Bio Info, My Field of Interest is very divergent. I love to code and to develop something new and great, majorly have a passion for Fullstack web development. My dream is to be a successful web developer.
 
-Skills: -->REACT / JS / HTML / CSS / C / C++
+Skills: -->REACT JS / JavaScript / HTML / CSS / C / PHP
 
-- 🌱 I’m currently learning React js and Java script 
+- 🌱 I’m currently learning Advanced React JS
 - 📫 How to reach me: kavithaprabhakar4@gmail.com 
 - ⚡ Fun fact: A Bio Informatician interested in programming 
 
