@@ -1,12 +1,4 @@
-### Hi there 👋,  I'm Tharun Reddy Nellore
-#### I am a Frontend web developer, Video Editor, Content Writer, Freelancer
--->B.Tech Bio-Informatics. Also, I am a student of Bio Info, My Field of Interest is very divergent. I love to code and to develop something new and great, majorly have a passion for Fullstack web development. My dream is to be a successful web developer.
-
-Skills: -->REACT JS / JavaScript / HTML / CSS / Python
-
-- 🌱 I’m currently learning Advanced React JS
-- 📫 How to reach me: kavithaprabhakar4@gmail.com 
-- ⚡ Fun fact: A Bio Informatician interested in programming 
+Power BI Developer with intermediate-level expertise in creating dynamic and visually compelling dashboards and reports. Skilled in transforming raw data into actionable insights to support business decision-making. I am currently pursuing the PL-300 certification to deepen my understanding of data modeling, DAX, and Power BI services. Dedicated to enhancing technical skills through hands-on projects and continuous learning to excel in delivering high-quality data solutions.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tharunkumar02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tharunkumar02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nellore-tharun-kumar-reddy-3ba648205//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tharun.k.reddy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tharun_reddie18/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TharunReddy002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/tharunkumar02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/nellore-tharun-kumar-reddy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://educate112832896.wordpress.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://tharun-reddy.blogspot.com/)  
